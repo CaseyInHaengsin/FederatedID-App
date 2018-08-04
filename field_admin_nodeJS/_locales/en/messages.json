@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "field_admin_nodeJS",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "create_FedID",
+    "description": "The description of the application"
+  }
+}
